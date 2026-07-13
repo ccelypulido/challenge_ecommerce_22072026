@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python (archivos temporales que genera al ejecutar código)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de editores (opcional, por si usas VS Code o PyCharm)
+.vscode/
+.idea/
